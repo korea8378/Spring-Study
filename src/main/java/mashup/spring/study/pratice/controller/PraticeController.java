@@ -18,7 +18,7 @@ public class PraticeController {
 
     @RequestMapping("/")
     public String index() {
-        return "CI/CD & Nginx(Reverse-Proxy) change!!!!";
+        return "CI/CD & Nginx(Reverse-Proxy) change!!!!!!!";
     }
 
 
